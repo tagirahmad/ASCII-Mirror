@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The code will not compile.
+  - text: It will print &#x27;File not found&#x27; only if the file does not exist.
+  - text: It will always print &#x27;Example.txt exists&#x27; and then delete the file.
+  - text: It will print &#x27;Example.txt exists&#x27; and delete the file only if the
+      file exists.
+  - text: It will always print &#x27;File not found&#x27;.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30887#comment
+status: Solved
+record: -1
+local_check: false

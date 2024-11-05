@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/asciimirror/Main.java
+    visible: true
+    learner_created: false
+  - name: test/example1.txt
+    visible: false
+    learner_created: false
+  - name: test/example2.txt
+    visible: false
+    learner_created: false
+  - name: test/example3.txt
+    visible: false
+    learner_created: false
+  - name: test/example4.txt
+    visible: false
+    learner_created: false
+  - name: test/example5.txt
+    visible: false
+    learner_created: false
+  - name: test/MirrorTest.java
+    visible: false
+    learner_created: false
+  - name: src/asciimirror/MooFolder/Cow.txt
+    visible: true
+    learner_created: true
+  - name: src/asciimirror/HumphFolder/Camel.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/20317#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 01 Nov 2024 06:27:03 UTC"
+record: 3

@@ -1,0 +1,24 @@
+type: edu
+custom_name: "ASCII Lands welcome you, Stranger!"
+files:
+  - name: src/asciimirror/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MirrorTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20315#comment
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    There should be printed exactly 8 lines, containing cow&#39;s picture
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    Input the file path:
+  time: "Wed, 30 Oct 2024 04:19:15 UTC"
+record: 1

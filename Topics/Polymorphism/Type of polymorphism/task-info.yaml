@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Multilevel polymorphism
+  - text: Compiled polymorphism
+  - text: Executable polymorphism
+  - text: Run-time polymorphism
+  - text: Multiple polymorphism
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3396#comment
+status: Solved
+record: -1
+local_check: false

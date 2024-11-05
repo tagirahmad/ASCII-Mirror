@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/test-results" />
+            <option value="$PROJECT_DIR$/ASCII Mirror/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Taming the file-reading tightrope act" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/File class/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/File class/Creating and verifying a text file" />
+            <option value="$PROJECT_DIR$/Topics/File class/Getting information" />
+            <option value="$PROJECT_DIR$/Topics/File class/Handling File Existence in Java" />
+            <option value="$PROJECT_DIR$/Topics/File class/Non-existing location" />
+            <option value="$PROJECT_DIR$/Topics/File class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/File class/Working with file data in Java" />
+            <option value="$PROJECT_DIR$/Topics/File class/Сorrect statements" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Grades" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Unchecked exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Safekeeping Secrets in a Magic Box" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Notification" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/The time of overloading" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Type of polymorphism" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/A package" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Blacklist" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Squaring numbers" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
